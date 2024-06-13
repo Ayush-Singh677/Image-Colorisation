@@ -1,1 +1,1 @@
-# Image Colorization using Perceptual Loss and GAN
+# Image Colorization using Perceptual Loss and Unet
