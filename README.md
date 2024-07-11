@@ -11,19 +11,19 @@ This project features an automatic image colorization model that leverages a U-N
 	4.	Installation
 	5.	Usage
 
-### Introduction
+## Introduction
 
 Image colorization is a challenging and fascinating problem in computer vision. This project presents a solution using a U-Net architecture combined with perceptual loss, aiming to generate high-quality, realistic color images from grayscale inputs.
 
-### Model Architecture
+## Model Architecture
 
 The core of the colorization model is the U-Net architecture, which consists of an encoder-decoder structure. The encoder compresses the input image into a lower-dimensional feature space, capturing essential features, while the decoder reconstructs the image from this compressed representation, adding color in the process.
 
-### Perceptual Loss
+## Perceptual Loss
 
 Perceptual loss is employed to enhance the realism of the colorized images. It uses a pre-trained VGG network to compare high-level features between the generated and true color images. This ensures that the colorization process not only focuses on pixel-level accuracy but also maintains perceptual quality.
 
-### Installation
+## Installation
 
 To set up the project, follow these steps:
 
