@@ -44,7 +44,7 @@ Install the required dependencies:
 pip install -r requirements.txt
 ```
 
-### Usage
+## Usage
 ```
 python3 main.py --input grayscale_image.jpg --output colorized_image.jpg --model unet_ploss_vgg19.pth
 ```
