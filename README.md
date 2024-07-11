@@ -46,6 +46,6 @@ pip install -r requirements.txt
 
 ### Usage
 ```
-python3 main.py --input grayscale_image.jpg --output colorized_image.jpg --model model.pth
+python3 main.py --input grayscale_image.jpg --output colorized_image.jpg --model unet_ploss_vgg19.pth
 ```
 
